@@ -219,7 +219,7 @@ const categories = {
   engineering: {
     icon: <Code size={18} />,
     title: "Production Systems",
-    symbol: "</>",
+    symbol: 🖥️,
     links: [
       {
         id: "eng1",
