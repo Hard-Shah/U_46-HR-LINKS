@@ -79,6 +79,7 @@ const categories = {
       {id: "eng16",
        title: "Infinite Campus",
        url: "https://campus.u-46.org/campus/u46.jsp",
+      },
     ],
   },
   hr: {
