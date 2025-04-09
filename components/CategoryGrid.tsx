@@ -27,7 +27,10 @@ const categories = {
         title: "GCN",
         url: "https://site.gcntraining.com/",
       },
-      { id: "eng6", title: "Infinite Campus", url: "https://roadmap.sh" },
+      { id: "eng6",
+       title: "Infinite Campus",
+       url: "https://roadmap.sh",
+      },
       {
         id: "eng7",
         title: "Munis MSS",
