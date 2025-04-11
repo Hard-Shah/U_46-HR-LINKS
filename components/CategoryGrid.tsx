@@ -22,6 +22,16 @@ const categories = {
         url: "https://www.applitrack.com/u46/onlineapp/admin/_admin.aspx",
       },
       {
+        id: "eng16",
+        title: "Skyward",
+        url: "https://skyward.iscorp.com/ElginSD46ILBusPrelim/Home/Administrative/Home",
+      },
+      {
+        id: "eng17",
+        title: "Skyward Sharepoint",
+        url: "https://skywardinc.sharepoint.com/sites/custelginschooldistrictu46il/SitePages/Home.aspx",
+      },
+      {
         id: "eng5",
         title: "GCN",
         url: "https://site.gcntraining.com/",
