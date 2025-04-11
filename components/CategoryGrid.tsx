@@ -16,7 +16,6 @@ const categories = {
         title: "Academics Credits Entry",
         url: "https://district.u-46.org/AcademicCredits/login.cfm",
       },
-      { id: "eng3", title: "API Reference", url: "https://swagger.io/docs/" },
       {
         id: "eng4",
         title: "Frontline",
